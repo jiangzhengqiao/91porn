@@ -15,7 +15,7 @@ public class M2Js {
         String html = "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n" +
                 "<html>\n" +
                 " <head> \n" +
-                "  <title>      约一个大鸡巴逼被操肿了 \n" +
+                "  <title>       \n" +
                 "     Chinese homemade video</title> \n" +
                 "  <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"> \n" +
                 "  <meta name=\"description\" content=\"Free porn video, free amateur video, free xxx video\"> \n" +
@@ -305,7 +305,7 @@ public class M2Js {
                 "    <div class=\"row\"> \n" +
                 "     <div class=\"col-md-8 col-ms-8 col-xs-12 video-border\"> \n" +
                 "      <div id=\"videodetails\" class=\"videodetails-yakov\"> \n" +
-                "       <h4 class=\"login_register_header\" align=\"left\"><img src=\"images/91.png\"> 约一个大鸡巴逼被操肿了 </h4>\n" +
+                "       <h4 class=\"login_register_header\" align=\"left\"><img src=\"images/91.png\">  </h4>\n" +
                 "       <br> \n" +
                 "       <!-- JuicyAds v3.1 --> \n" +
                 "       <script type=\"text/javascript\" data-cfasync=\"false\" async src=\"https://poweredby.jads.co/js/jads.js\"></script> \n" +
